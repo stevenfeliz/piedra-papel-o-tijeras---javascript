@@ -11,4 +11,5 @@
 
 
 ## Practica javascript - juego "piedra papel o tijeras
-![alt text](https://github.com/stevenfeliz/piedra-papel-o-tijeras---javascript.git/blob/main/gamephoto.PNG)
+![alt text](https://github.com/stevenfeliz/piedra-papel-o-tijeras---javascript/blob/main/gamephoto.PNG)
+
